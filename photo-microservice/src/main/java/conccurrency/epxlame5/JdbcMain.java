@@ -1,4 +1,4 @@
-package conccurency.epxlame5;
+package conccurrency.epxlame5;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

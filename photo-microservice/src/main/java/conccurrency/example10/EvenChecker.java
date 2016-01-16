@@ -8,7 +8,7 @@ import java.util.concurrent.Executors;
 /**
  * Created by evgen on 14.01.16.
  */
-public class EvenChecker implements Runnable{
+public class EvenChecker implements Runnable {
 
     private final int id;
     private IntGenerator generator;
@@ -38,6 +38,9 @@ public class EvenChecker implements Runnable{
     }
 
     public static void test(IntGenerator generator){
-        test(generator, 10);
+        //test(generator, 10);
+        int[] a = new int[0];
+        System.out.println(a.length);
+        a[0] = 20;
     }
 }

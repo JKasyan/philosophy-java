@@ -32,7 +32,7 @@ public abstract class PairManager {
 
 }
 
-class PairManager1 extends PairManager{
+class PairManager1 extends PairManager {
 
     @Override
     public synchronized void increment() {

@@ -20,7 +20,7 @@ public class PairCritical {
         ex.execute(pc1);
         ex.execute(pc2);
         try {
-            TimeUnit.MILLISECONDS.sleep(500);
+            TimeUnit.SECONDS.sleep(5);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

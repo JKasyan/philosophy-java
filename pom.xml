@@ -5,13 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>kasyab</groupId>
-    <artifactId>socialka-microservices</artifactId>
+    <artifactId>philosophy-java</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>photo-microservice</module>
-        <module>messages-microservice</module>
-    </modules>
-
 
 </project>

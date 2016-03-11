@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/messages-microservice/messages-microservice.iml" filepath="$PROJECT_DIR$/messages-microservice/messages-microservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/photo-microservice/photo-microservice.iml" filepath="$PROJECT_DIR$/photo-microservice/photo-microservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/socialka-microservices.iml" filepath="$PROJECT_DIR$/socialka-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/philosophy-java.iml" filepath="$PROJECT_DIR$/philosophy-java.iml" />
     </modules>
   </component>
 </project>
